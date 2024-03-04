@@ -1,0 +1,5 @@
+p{color:red;}
+.head-coinatiner{
+    display: flex;
+    flex-direction: row-reverse;
+}
